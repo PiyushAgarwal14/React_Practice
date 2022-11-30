@@ -1,0 +1,47 @@
+.navbar{
+    color: white;
+    display: inline-flex;
+    background-color: black;
+    list-style-type: none;
+    margin-top: -1px;
+    width: 100%;
+}
+
+.nav{
+    padding: 1rem;
+}
+
+.nav:hover{
+    color: aqua;
+}
+
+.footer{
+    margin-top: 595px;
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+.card{
+    border: solid 1px;
+    border-radius: 12px;
+    width: 300px;
+    margin-left: 3rem;
+    margin-top: 18px;
+}
+
+.img{
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.cb{
+    text-align: center;
+}
+
+.container{
+     display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

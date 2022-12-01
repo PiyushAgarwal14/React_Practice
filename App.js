@@ -40,6 +40,15 @@ function App() {
             <p className="cb">This is a wallpaper</p>
             </div>
         </div>
+    
+         <div className="card">
+            <div className="card-img">
+            <img className="img" src="https://c4.wallpaperflare.com/wallpaper/295/264/47/ktm-bikes-racing-hd-wallpaper-preview.jpg" width="300px;"/>
+            </div>
+            <div className="card-body">
+            <p className="cb">This is a wallpaper</p>
+            </div>
+        </div>
 
         </div>
         <footer className="footer">
